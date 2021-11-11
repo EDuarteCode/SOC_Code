@@ -33,6 +33,6 @@ The complete model contains 5 steps that must be applied in the order indicated.
 
 (v) mapping of SOC.
 
-Soil Organic Carbon Code (SOC-Code) is a Google Earth Engine (GEE) in the following link:
+Soil Organic Carbon Code (SOC-Code) is available in Google Earth Engine (GEE) cloud computing platform at the following link:
 https://code.earthengine.google.com/050344e5f7f941a64b8e02ed37fbd713
 
